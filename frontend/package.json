@@ -1,7 +1,8 @@
 {
-  "name": "djrfront",
+  "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:8000",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.3",
